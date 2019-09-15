@@ -1,5 +1,7 @@
 # bash
 
+Part of "System software practice '19"
+
 ## Run
 
     chmod a+x ./librealsense.sh
